@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+video {
+    transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); 
+    -moz-transform:rotateY(180deg); 
+}
+
+.myVideo {
+    width: "200px";
+    height:"200px";
+}
+
+.buttonGrp {
+    position: absolute;
+    width: fit-content;
+    margin: 10px auto;
+    z-index: 1;
+} */
